@@ -18,21 +18,3 @@ if (actualAge >= drinkingLimitAge) {
 } else {
   console.error("CHYBA: věk musí být číslo a větší než 0!");
 }
-
-/*
-Cvičení (zde bude časovač: ⌛10:00):
-Vytvořte program, který bude vyhodnocovat, jestli má student dostatek bodů k úspěšnému ukončení studia.
-Program ulož do složky: src/exercises
-Název souboru: student_absolvent.js
-
-Vstupy: 
-Počet bodů studenta.
-Jméno studenta.
-
-Hodnocení:
-Minimální počet bodů pro úspěch: 75
-
-Výsledek zaloguj srozumitelně do konzole s jménem.
-
-
-*/
